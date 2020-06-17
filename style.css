@@ -1,0 +1,21 @@
+
+body{
+	background-color:#000000;
+}
+h1{
+	background-color:#000000;
+	color:white;
+	font-family:times;
+}
+h2{
+	background-color:#000000;
+	color:#4aa4b2;
+	font-family:times;
+	text-align: center;
+}
+a:link {
+	color: #4aa4b2;
+}
+a:visited {
+	color: #4ab28c;
+}
