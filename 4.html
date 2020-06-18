@@ -5,7 +5,7 @@
         let file = new XMLHttpRequest();
         function load() {
 
-            file.open("GET", "./stories/test.txt", true);
+            file.open("GET", "./stories/4.txt", true);
             file.onreadystatechange = displayContents;
             file.send(null)          
         }
@@ -23,7 +23,7 @@
 
             html {height: 100%}
             body {
-                background-image: url('images/2_background.png');
+                background-color: #cfd0e4;
                 background-attachment: fixed;
                 height: 100%; 
                 margin: 0; 
@@ -32,7 +32,7 @@
 
             div#wrapper { 
                 position: relative;
-                background-color:  #7eba9b;
+                background-color:   #57b9be;
 
                 margin-right:10%;
                 margin-left:50%;
@@ -40,14 +40,11 @@
                 text-align: left;
                 overflow-y:scroll;
                 scrollbar-width: none;
-                
-                
-
             }
 
             div#content {
                 position: absolute;
-                background-color:  #7eba9b;
+                background-color:   #57b9be;
                 
             }
             div#content-text {
@@ -78,7 +75,7 @@
             /* here code that would work when the screen has less than 600px in width */
                 div#wrapper { 
                     position: relative;
-                    background-color:  #7eba9b;
+                    background-color:   #57b9be;
 
                     margin-right:10%;
                     margin-left:20%;
@@ -101,7 +98,7 @@
                 
             </div>
             <span  style="left: 0px;">
-                <img src="images/2.png" style="max-width: 50%; max-height: 50%; padding-left: 30px; " align="left">            
+                <img src="images/4.png" style="max-width: 70%; max-height: 70%; padding-left: 30px; " align="left">            
             </span>
         </div>
             <div id="wrapper">
