@@ -2,20 +2,20 @@
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <script type="text/javascript">
-            function load() {
-            var file = new XMLHttpRequest();
-            file.open("GET", "http://thevinter.com/stories/test.txt", true);
-            file.onreadystatechange = function() {
-                if (file.readyState === 4) {  // Makes sure the document is ready to parse
-                if (file.status === 200) {  // Makes sure it's found the file
-            text = file.responseText;
-          document.getElementById("text_one").innerHTML = text;
+        function load() {
+            let file = new XMLHttpRequest();
+            file.open("GET", "./stories/test.txt", true);
+            file.onreadystatechange = displayContents;
+            file.send(null)          
         }
-      }
-    }
-}
 
-window.onLoad = load();
+        function displayContents() {
+            if(reader.readyState==4) {
+                var el = document.getElementById('text_one');
+                el.innerHTML = file.responseText;
+            }
+        }
+        window.onLoad = load();
         </script>
         <style type="text/css">
           
