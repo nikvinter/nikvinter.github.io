@@ -73,9 +73,7 @@
                 display: none;
             }
             @-moz-document url-prefix() { /* Disable scrollbar Firefox */
-                html{
-                  scrollbar-width: none;
-                }
+                html,body{overflow: hidden !important;}
             }
             @media only screen and (max-width: 600px) {
             /* here code that would work when the screen has less than 600px in width */
