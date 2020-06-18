@@ -30,12 +30,7 @@
                 margin: 0; 
                 text-align: center;//for IE7
             }
-            .hide-scrollbar
-            {
-                overflow: auto;
-                -ms-overflow-style: none; /* IE 11 */
-                scrollbar-width: none; /* Firefox 64 */
-            }
+
             div#wrapper { 
                 position: relative;
                 background-color:  #7eba9b;
@@ -73,9 +68,7 @@
             ::-webkit-scrollbar {
                 display: none;
             }
-            @-moz-document url-prefix() { /* Disable scrollbar Firefox */
-                html,body{overflow: hidden !important;}
-            }
+
             @media only screen and (max-width: 600px) {
             /* here code that would work when the screen has less than 600px in width */
                 div#wrapper { 
