@@ -10,7 +10,7 @@
         }
 
         function displayContents() {
-            if(reader.readyState==4) {
+            if(file.readyState==4) {
                 var el = document.getElementById('text_one');
                 el.innerHTML = file.responseText;
             }
