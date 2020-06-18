@@ -2,8 +2,9 @@
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <script type="text/javascript">
+        let file = new XMLHttpRequest();
         function load() {
-            let file = new XMLHttpRequest();
+
             file.open("GET", "./stories/test.txt", true);
             file.onreadystatechange = displayContents;
             file.send(null)          
