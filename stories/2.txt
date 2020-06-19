@@ -1,9 +1,56 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus at lectus eget velit hendrerit dignissim. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nam suscipit aliquet scelerisque. Cras auctor eget sem quis fermentum. Nunc eu pulvinar enim. Mauris ut dolor non ex faucibus ullamcorper vitae sed ligula. Phasellus sit amet elit turpis. Suspendisse potenti. Integer id sapien nisl. Aenean lorem turpis, malesuada quis tellus sit amet, suscipit tempor sem. Donec nec blandit sapien. Donec in fringilla lorem.
-
-                                Donec consectetur purus at venenatis volutpat. Nulla blandit nibh vel urna malesuada, dictum gravida elit ultrices. Donec sagittis dolor at ante dapibus consectetur. Sed at pulvinar mi, sed dapibus risus. Maecenas quis leo lobortis, auctor risus vel, elementum leo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam a iaculis nisl. Ut at tortor ut magna tincidunt pharetra ut at magna. Nulla eget pharetra sem, et sollicitudin metus. Phasellus maximus, justo quis interdum sodales, ante est posuere ipsum, vitae ultricies nibh justo id felis.
-
-                                Duis quis scelerisque tortor, et blandit erat. In hac habitasse platea dictumst. Duis nec ultricies tortor, eu volutpat est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Praesent viverra iaculis pharetra. Cras sed nibh nibh. Nullam pulvinar est lorem. Duis fringilla tempus ante, ac malesuada dui vestibulum non. Quisque ipsum nibh, interdum viverra ornare et, gravida non nunc. Donec eu tortor tortor. Vestibulum vitae neque a ipsum lobortis rhoncus. Suspendisse potenti. Integer et hendrerit urna. Proin laoreet felis est, at malesuada orci ornare at. Donec sapien eros, venenatis in porttitor eget, pretium sit amet sem. Duis tempus leo id sodales ornare.
-
-                                Aenean consequat, ligula eu commodo congue, lacus mauris imperdiet urna, in fermentum sapien risus a orci. Duis ac ligula eu dui gravida consectetur. Donec lacinia augue vel tellus condimentum accumsan. Proin quam lorem, scelerisque at quam quis, tempor ultricies magna. Duis ornare neque tristique est venenatis, vitae dictum erat ornare. Fusce eros mauris, cursus at elementum vitae, facilisis sit amet urna. Proin sit amet velit bibendum, ullamcorper velit cursus, gravida ligula. Ut hendrerit mauris nibh, ac dictum enim pharetra id. Sed sed diam rhoncus, sodales mauris in, ultrices justo. Nulla id viverra ante. Pellentesque a ligula quis risus posuere tincidunt vel a turpis. Quisque blandit bibendum quam tincidunt aliquet. Nam fringilla sapien felis, non congue est pretium sit amet. Pellentesque bibendum aliquam justo, sed feugiat nibh volutpat vitae. Phasellus a dolor luctus, facilisis risus ac, convallis leo. Duis rutrum, arcu semper congue cursus, tortor leo blandit orci, in varius dolor urna ac est.
-
-                                Nullam eu sapien mauris. Curabitur condimentum felis vitae pulvinar accumsan. Proin egestas sem vitae lorem tincidunt, eget consequat lacus efficitur. Etiam quis consequat neque. Sed feugiat tellus eget urna condimentum facilisis. Nam vulputate arcu a enim placerat vestibulum. Nam a lectus nec metus sodales sollicitudin eu quis massa. Etiam faucibus facilisis pellentesque. Aenean velit massa, ornare vel pellentesque id, consectetur sit amet enim. Duis tincidunt cursus nunc mattis vehicula. Aliquam erat volutpat.
+<b>Q:</b><i> How many days did it take?</i>
+<br>
+<b>A:</b><i> Not enough</i>
+<br>
+<br>
+<br>
+<br>
+The second time I met her was by chance. We didn't agree to meet or anything, even if the first time she gave me her number. I didn't call. Actually I was afraid of phones, not in a traditional sense, nothing like those radiation or elecromagnetic waves fellas. I just didn't like the thought of calling someone, it felt like an intrusion in that person's privacy, an intrusion in the time everyone leaves for themselves. I'm pretty sure there's someone out there that loves being called, but I wasn't one of them. 
+<br>
+<br>
+So that phone never rang.
+<br>
+<br>
+Nonetheless we managed to find eachother. Destiny is blind but always find a way, probably not that hard when both parties go the the same bar at least once a week. Not sure if she started going there because of me or not, that I can't tell, but I don't remember her being there before that day. Not that it matters since I don't remember much anymore. 
+<br>
+<br>
+The third time was a coincidence as well, but after that we kind of stopped faking it and officially organized a date. It wasn't a date per se but I guess going to the grocery store with her since she didn't have a car was close enough. 
+<br>
+<br>
+My 2004 Mazda MPV wasn't certainly the best looking car but it always reminded me of the victory that japanese manufacturers had over the american ones. Even if that wasn't true I actually didn't care that much, my belief was aesthetically pleasing enough that I always found it worth having. All those japanese wares, made by people living in the woods, following traditions with a secolar story behind them, with squiggly (and straight) lines representing moons, eyes and other stuff overimposed on the packages. 
+<br>
+<br>
+I didn't accompany her home that day. Not inside I mean, she insisted that I'd leave the bags next to the elevator. At the time I didn't get why; in hindsight it's obvious. 
+<br>
+<br>
+The rain started as soon as I began driving away. The patterns on the windows looked like rapids and made me remember a story I heard somewhere. It was about a man who was lost in a jungle somewhere in South America if I recall correctly. He fell into a river, maybe he was pushed, I don't know. Point being that he started going downstream, pushed and pulled by the invisible forces of the water, crashing against rocks and tree stumps. 
+<br>
+<br>
+He was about to give up. After what seemed like hours he was still trying to float using a big branch to keep himself up, his forces was abandoning him, and he was wondering if he reaistically could've made it. There wasn't even a point in going out of the water because he didn't know where he was, with no food and with no equipment. Then he heard an helicopter above his head.
+<br>
+<br>
+What happened was that a couple of hours prior a small passenger aircraft was flying above the same river and suddenly an engine failure made the vessel crash into a lake nearby. Forces were deployed to find and rescue the survivors and the helicopter was part of them. 
+<br>
+<br>
+Well, the guy reached the lake and was rescued. The passengers on the other hand didn't have so much luck, they all died during the impact. Imagine how surprised were the rescuers when the only guy they saved wasn't even on the flight.
+<br>
+<br>
+I envied the man. Then I wondered why I was envying him for. 
+<br>
+<br>
+The phone kept being silent. 
+<br>
+<br>
+Since I was, how do we say that, in between jobs I had a lot of spare time. I was running short on money but that just meant no more coffee machines for a bit. And probably no more records, an expensive hobby. Luckily I had a vast collection waiting for me. No need for animals to jump on you when you open the front door, no need for a family. At least I didn't need them. I had my very own things stretching their hands at me and I valued my possessions, probably more than people, even if that's not something that you want to say out loud. 
+<br>
+<br>
+I made myself some coffee and lowered the needle on the 1958's jazz-triumph-black's-victory-over-the-improvisation record "Somethin' Else". It probably had the best interpretation of Autumn Leaves I've ever heard and it always made me happy. I always associated it with my youth, we had one record player and my father used to listen to Adderley every Sunday. Not sure why but it was like a ritual, a call for prayer even if we weren't religious at all. Then the record player stopped playing. 
+<br>
+<br>
+It was a Tuesday. Nothing ever happens on Tuesdays. Nothing happened on that Tuesday. 
+<br>
+<br>
+The phone was as quiet as ever.
+<br>
+<br>
+Then, five days later, it rang. 
