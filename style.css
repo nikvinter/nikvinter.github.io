@@ -29,7 +29,10 @@ ul {
 }
 .nav-table {
   display: table;
-  margin: auto
+  margin: auto;
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
 
 li {
