@@ -29,7 +29,7 @@ ul {
 }
 
 li {
-  display: inline-block;
+  display: table; margin: 0 auto;
 }
 
 li a {
