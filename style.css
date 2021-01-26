@@ -27,9 +27,13 @@ ul {
   overflow: hidden;
   background-color: #000000;
 }
+.nav-table {
+  display: table;
+  margin: auto
+}
 
 li {
-  display: table; margin: 0 auto;
+  float: left;
 }
 
 li a {
