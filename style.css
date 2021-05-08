@@ -20,6 +20,14 @@ a:link {
 a:visited {
 	color: #4ab28c;
 }
+.example::-webkit-scrollbar {
+  display: none;
+}
+
+.example {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
 ul {
   list-style-type: none;
   margin: 0;
